@@ -1,0 +1,12 @@
+[03-Jun-2020 05:34:23 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[13-Jul-2020 09:28:46 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[13-Jul-2020 10:16:00 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[15-Jul-2020 01:49:06 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[25-Dec-2020 22:45:56 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[28-Dec-2020 07:49:30 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[30-Dec-2020 00:59:38 America/Chicago] PHP Fatal error:  Call to undefined function get_template_directory() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[30-Jan-2021 18:01:41 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[01-Mar-2021 03:53:43 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[02-Mar-2021 16:09:09 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[02-Mar-2021 20:29:49 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[07-Mar-2021 17:06:12 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/sbscon/public_html/wp-content/themes/twentyseventeen/404.php on line 13
